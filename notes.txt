@@ -1,0 +1,6 @@
+-da windows:
+	exe funziona (input bmp -> output ppm/pgm)
+
+-da linux
+	./locoe (nella cartella encoder) funziona ma accetta solo ppm/pgm
+	./locod (nella cartella decoder) segmentation fault
